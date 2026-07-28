@@ -142,4 +142,7 @@ MCA Final Year Student
 Interested in Data Science, Artificial Intelligence, Machine Learning, and Generative AI.
 
 This project was developed as a hands-on learning project to explore how AI and Machine Learning can be integrated into an interactive data analysis application.
+## Live Demo
 
+Streamlit App:
+https://cei-internship-jkbcx9pdrzoxzqrfgvrnkh.streamlit.app/
